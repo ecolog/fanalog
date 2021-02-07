@@ -8,4 +8,6 @@ description = "Collect log files from multiple serial ports and forward to remot
 [dependencies]
 serialport = "4.0.0"
 syslog = "5.0.0"
+clap = "2.32"
+
 
